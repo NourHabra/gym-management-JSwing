@@ -9,3 +9,4 @@ despite polymorphism not being the best choice for this project, it was a requir
 Function headers were also extracted to the superclass and then overridden in the subclasses to maintain functionality since this project was completed without using polymorphism, which was later added. Type casting was used where data was used only for reading/displaying purposes.
 
 -Nour Habra
+-Mustafa Alhasany
